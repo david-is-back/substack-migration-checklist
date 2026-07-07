@@ -75,6 +75,15 @@ This checklist is written for creators, founders, consultants, writers, and news
 
 Every newsletter platform handles imports, paid subscriptions, and domains a little differently. Not all data transfers perfectly between platforms, and paid subscriber migration in particular is rarely fully automatic. Where something depends on your destination platform, this guide says so — always verify the specifics with the platform you are moving to.
 
+## Related resources
+
+Maintained alongside this checklist:
+
+- [Substack Alternatives](https://github.com/david-is-back/substack-alternatives) — an honest comparison of newsletter platforms if you are still deciding where to move
+- [Ghost Migration Checklist](https://github.com/david-is-back/ghost-migration-checklist) — the same playbook for leaving Ghost
+- [beehiiv Migration Checklist](https://github.com/david-is-back/beehiiv-migration-checklist) — the same playbook for leaving beehiiv
+- [Mailchimp Migration Checklist](https://github.com/david-is-back/mailchimp-migration-checklist) — the same playbook for leaving Mailchimp
+
 ## Contributing
 
 Found something outdated, unclear, or missing? Open an issue or a pull request. Substack's interface and export options change over time, and this checklist stays useful because people report what changed.
