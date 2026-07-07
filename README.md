@@ -2,7 +2,7 @@
 
 A practical checklist for moving your newsletter from Substack to another platform without losing subscribers, breaking old links, or confusing your readers.
 
-This guide is platform-agnostic. It works whether you are migrating from Substack to [LetterBucket](https://letterbucket.com), Ghost, Buttondown, Kit, Beehiiv, WordPress, or any other newsletter platform. The steps that matter — exporting your data, cleaning your subscriber list, protecting paid subscriptions, moving your custom domain, and testing deliverability — are the same everywhere.
+This guide is platform-agnostic. It works whether you are migrating from Substack to [LetterBucket](https://letterbucket.com), Ghost, Kit, Beehiiv, WordPress, or any other newsletter platform. The steps that matter — exporting your data, cleaning your subscriber list, protecting paid subscriptions, moving your custom domain, and testing deliverability — are the same everywhere.
 
 ## What this guide covers
 

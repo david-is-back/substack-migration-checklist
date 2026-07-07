@@ -7,7 +7,7 @@ Before you start: read the [Quick warning](README.md#quick-warning). Do not touc
 ## 1. Before you migrate
 
 - [ ] Decide why you are migrating (costs, features, ownership, design, deliverability) and write it down — it will shape your platform choice.
-- [ ] Choose your new newsletter platform (LetterBucket, Ghost, Buttondown, Kit, Beehiiv, WordPress, or another).
+- [ ] Choose your new newsletter platform (LetterBucket, Ghost, Kit, Beehiiv, WordPress, or another).
 - [ ] Confirm the new platform supports what you actually need: paid subscriptions, custom domain, archive import, and CSV subscriber import.
 - [ ] Create your new publication on the new platform **before** touching anything on Substack.
 - [ ] Make a list of all current Substack assets: subscriber list, posts, custom domain, signup embeds, recommendation links, welcome email, about page.

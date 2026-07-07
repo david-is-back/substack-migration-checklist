@@ -19,7 +19,7 @@ body:
     id: new-platform
     attributes:
       label: New platform
-      description: Where are you migrating to? (LetterBucket, Ghost, Buttondown, Kit, Beehiiv, WordPress, other, or still deciding)
+      description: Where are you migrating to? (LetterBucket, Ghost, Kit, Beehiiv, WordPress, other, or still deciding)
       placeholder: e.g. LetterBucket
     validations:
       required: true
