@@ -1,0 +1,82 @@
+name: Migration question
+description: Stuck on a Substack migration step? Describe your setup and where you got blocked.
+title: "[Question]: "
+labels: ["migration-question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for using the Substack Migration Checklist. Fill in what you can — the more context you give about your setup, the easier it is to help. Questions here also help improve the guides for everyone.
+  - type: input
+    id: substack-url
+    attributes:
+      label: Current Substack URL
+      description: The public URL of the publication you are migrating.
+      placeholder: https://yourname.substack.com
+    validations:
+      required: true
+  - type: input
+    id: new-platform
+    attributes:
+      label: New platform
+      description: Where are you migrating to? (LetterBucket, Ghost, Buttondown, Kit, Beehiiv, WordPress, other, or still deciding)
+      placeholder: e.g. LetterBucket
+    validations:
+      required: true
+  - type: input
+    id: free-subscribers
+    attributes:
+      label: Free subscribers (approximate)
+      placeholder: e.g. 2,500
+    validations:
+      required: false
+  - type: input
+    id: paid-subscribers
+    attributes:
+      label: Paid subscribers (approximate)
+      placeholder: e.g. 120, or 0 / none
+    validations:
+      required: false
+  - type: dropdown
+    id: custom-domain
+    attributes:
+      label: Do you use a custom domain on Substack?
+      options:
+        - "Yes"
+        - "No"
+        - "Not sure"
+    validations:
+      required: true
+  - type: dropdown
+    id: archive-migration
+    attributes:
+      label: Are you migrating your post archive?
+      options:
+        - "Yes, all posts"
+        - "Yes, selected posts"
+        - "No"
+        - "Not sure yet"
+    validations:
+      required: true
+  - type: textarea
+    id: main-concern
+    attributes:
+      label: Main migration concern
+      description: What part of the migration worries you most, or what are you trying to figure out?
+      placeholder: e.g. I don't want my paid subscribers to be charged twice during the switch.
+    validations:
+      required: true
+  - type: textarea
+    id: error-or-blocker
+    attributes:
+      label: Error or blocker (if any)
+      description: If you are stuck on a specific step, describe what you tried and what happened. Paste error messages if you have them. Please do not paste subscriber data or email addresses.
+    validations:
+      required: false
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional context
+      description: Anything else that helps — timeline, platform-specific details, links to relevant docs.
+    validations:
+      required: false

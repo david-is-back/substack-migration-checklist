@@ -1,0 +1,4 @@
+email,name,status,is_paid,subscription_status,subscription_expires_at,created_at,source,tags
+jane@example.com,Jane Reader,subscribed,false,,2026-12-31,2024-04-10,substack,"free,imported"
+alex@example.com,Alex Paid,subscribed,true,active,2026-09-15,2023-11-02,substack,"paid,imported"
+sam@example.com,Sam Lapsed,subscribed,false,expired,2025-08-01,2022-06-20,substack,"former-paid,imported"
