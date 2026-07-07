@@ -165,6 +165,6 @@ Template: [Post-migration audit](templates/post-migration-audit.md)
 
 ## Need help migrating?
 
-This checklist is maintained by [LetterBucket](https://letterbucket.com), a simple newsletter platform for creators. If you want help moving your subscribers, archive, and newsletter website from Substack, start here: [Start your Substack migration with LetterBucket](https://letterbucket.com/migrate-from-substack).
+This checklist is maintained by [LetterBucket](https://letterbucket.com), a simple newsletter platform for creators. If you want help moving your subscribers, archive, and newsletter website from Substack, [contact us](https://letterbucket.com/contact).
 
 The checklist itself is platform-neutral — use it wherever you are headed.

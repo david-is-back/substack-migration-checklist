@@ -66,4 +66,4 @@ More on the domain move itself: [Move Your Custom Domain from Substack](move-you
 
 ## Need help migrating?
 
-This guide is maintained by [LetterBucket](https://letterbucket.com). If you want help moving your Substack archive and newsletter website, [start your migration here](https://letterbucket.com/migrate-from-substack).
+This guide is maintained by [LetterBucket](https://letterbucket.com). If you want help moving your Substack archive and newsletter website, [contact us](https://letterbucket.com/contact).

@@ -72,4 +72,4 @@ The untouched original matters more than it seems: if an import goes wrong, or a
 
 ## Need help migrating?
 
-This guide is maintained by [LetterBucket](https://letterbucket.com). If you are moving from Substack and want help importing your subscribers and archive, you can [start your migration here](https://letterbucket.com/migrate-from-substack).
+This guide is maintained by [LetterBucket](https://letterbucket.com). If you are moving from Substack and want help importing your subscribers and archive, [contact us](https://letterbucket.com/contact).

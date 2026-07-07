@@ -73,4 +73,4 @@ A ready-to-adapt email is in the templates folder: [migration-announcement-paid-
 
 ## Need help migrating?
 
-This guide is maintained by [LetterBucket](https://letterbucket.com). If you are moving a paid newsletter from Substack and want help planning the billing transition, [start your migration here](https://letterbucket.com/migrate-from-substack).
+This guide is maintained by [LetterBucket](https://letterbucket.com). If you are moving a paid newsletter from Substack and want help planning the billing transition, [contact us](https://letterbucket.com/contact).

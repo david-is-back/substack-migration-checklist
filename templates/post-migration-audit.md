@@ -74,4 +74,4 @@ Notes (subscriber trend vs pre-migration, paid churn, open-rate trend, remaining
 
 ---
 
-Part of the [Substack Migration Checklist](../checklist.md), maintained by [LetterBucket](https://letterbucket.com/migrate-from-substack).
+Part of the [Substack Migration Checklist](../checklist.md), maintained by [LetterBucket](https://letterbucket.com). Need help migrating? [Contact us](https://letterbucket.com/contact).

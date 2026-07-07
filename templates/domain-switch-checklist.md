@@ -46,4 +46,4 @@ A condensed, fill-in checklist for the day you point your custom domain away fro
 
 ---
 
-Part of the [Substack Migration Checklist](../checklist.md), maintained by [LetterBucket](https://letterbucket.com/migrate-from-substack).
+Part of the [Substack Migration Checklist](../checklist.md), maintained by [LetterBucket](https://letterbucket.com). Need help migrating? [Contact us](https://letterbucket.com/contact).

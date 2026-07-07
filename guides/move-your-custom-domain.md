@@ -63,4 +63,4 @@ A condensed version of this guide for migration day: [domain-switch-checklist.md
 
 ## Need help migrating?
 
-This guide is maintained by [LetterBucket](https://letterbucket.com). If you want help pointing your domain at your new newsletter home, [start your migration here](https://letterbucket.com/migrate-from-substack).
+This guide is maintained by [LetterBucket](https://letterbucket.com). If you want help pointing your domain at your new newsletter home, [contact us](https://letterbucket.com/contact).

@@ -83,6 +83,6 @@ Found something outdated, unclear, or missing? Open an issue or a pull request. 
 
 This checklist is maintained by LetterBucket, a simple newsletter platform for creators who want to write, send, and publish from one place.
 
-If you are moving from Substack and want help migrating your subscribers, archive, and newsletter website, you can start here:
+If you are moving from Substack and want help migrating your subscribers, archive, and newsletter website, get in touch:
 
-[Start your Substack migration with LetterBucket](https://letterbucket.com/migrate-from-substack)
+[Contact LetterBucket about your migration](https://letterbucket.com/contact)

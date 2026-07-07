@@ -50,4 +50,4 @@ Record all of this in the [post-migration audit template](../templates/post-migr
 
 ## Need help migrating?
 
-This guide is maintained by [LetterBucket](https://letterbucket.com). If you want help getting authentication and deliverability right on your new setup, [start your migration here](https://letterbucket.com/migrate-from-substack).
+This guide is maintained by [LetterBucket](https://letterbucket.com). If you want help getting authentication and deliverability right on your new setup, [contact us](https://letterbucket.com/contact).
