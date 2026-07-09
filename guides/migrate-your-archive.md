@@ -2,6 +2,8 @@
 
 Your archive — the posts you have already published — is often the most time-consuming part of a Substack migration, and also the part where you have the most room to make judgment calls. This guide helps you decide what to move, how to move it, and how to keep old links working.
 
+> **Tip:** the free [substack-migration-check](https://github.com/david-is-back/substack-migration-skill) skill for Claude Code inventories your export automatically — per post, it counts Substack-hosted images, internal substack.com links, and embeds, so you know exactly how much re-hosting and link-fixing each post needs before you start.
+
 ## You do not have to migrate everything
 
 It is tempting to move every post you ever published. In practice, most newsletters have a long tail of posts that get no traffic and have no backlinks. Migrating them all is fine if your new platform imports them automatically; if you have to move posts by hand, prioritize instead.

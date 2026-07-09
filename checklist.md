@@ -4,6 +4,8 @@ The complete checklist for migrating your newsletter from Substack to another pl
 
 Before you start: read the [Quick warning](README.md#quick-warning). Do not touch your live Substack publication until your data is exported and your new setup is tested.
 
+> **Tip:** sections 2, 3, and 5 can be checked automatically with the free [substack-migration-check](https://github.com/david-is-back/substack-migration-skill) skill for Claude Code — it audits your export ZIP offline and produces a cleaned, import-ready subscriber CSV.
+
 ## 1. Before you migrate
 
 - [ ] Decide why you are migrating (costs, features, ownership, design, deliverability) and write it down — it will shape your platform choice.

@@ -4,6 +4,8 @@ Importing your Substack subscriber CSV into a new platform without cleaning it f
 
 Work on a **copy** of your export, never the original (see [How to Export Your Substack Data](export-from-substack.md)).
 
+> **Tip:** the free [substack-migration-check](https://github.com/david-is-back/substack-migration-skill) skill for Claude Code runs every check on this page automatically and produces a cleaned, import-ready CSV — offline, without your subscriber data leaving your machine. The manual walkthrough below is still worth reading so you know what it did and why.
+
 ## What to check, column by column
 
 ### Missing email addresses

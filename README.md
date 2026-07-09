@@ -50,6 +50,15 @@ The automatable parts of this checklist — export integrity (section 2), subscr
 
 Point it at your Substack export ZIP and it produces an audit report, a cleaned import-ready subscriber CSV, and a per-post dependency inventory. It runs fully offline — your subscriber data never leaves your machine.
 
+Install it from Claude Code:
+
+```
+/plugin marketplace add david-is-back/substack-migration-skill
+/plugin install substack-migration-check@substack-migration-check
+```
+
+Then ask: *"Check my Substack export at ~/Downloads/my-export.zip — I'm migrating."*
+
 ## Contents
 
 ### The checklist
