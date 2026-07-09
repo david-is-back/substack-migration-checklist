@@ -44,6 +44,12 @@ Your Substack publication is your safety net during the migration. Keep it intac
 3. Use the [templates](templates/) for subscriber imports, announcement emails, and post-migration audits.
 4. If you hit a problem, [open an issue](../../issues/new/choose) and describe where you got stuck.
 
+## Run the checklist automatically with Claude Code
+
+The automatable parts of this checklist — export integrity (section 2), subscriber list cleanup (section 3), and post archive dependencies (section 5) — are packaged as a free [Claude Code](https://claude.com/claude-code) skill: [substack-migration-check](https://github.com/david-is-back/substack-migration-skill).
+
+Point it at your Substack export ZIP and it produces an audit report, a cleaned import-ready subscriber CSV, and a per-post dependency inventory. It runs fully offline — your subscriber data never leaves your machine.
+
 ## Contents
 
 ### The checklist
